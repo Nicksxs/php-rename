@@ -1,0 +1,21 @@
+{
+    "name": "nicksxs/php-rename",
+    "description": "some customized rename tools",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Nicksxs\\PhpRename\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicksxs",
+            "email": "nicksxs@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    }
+}
